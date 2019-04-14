@@ -1,0 +1,3 @@
+public static List<Integer> yourBetFor71_77() {
+	return Arrays.asList(21, 560, 1121, 487, 442, 1058);
+}
