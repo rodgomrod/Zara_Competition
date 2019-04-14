@@ -18,7 +18,7 @@ Realizado por:
 | Nombre | Email |
 | ---- | ---- |
 | [Rodrigo Gomez Rodriguez](https://www.linkedin.com/in/rodrigo-gomez/)  | rodgomrod@gmail.com |
-| [Carlos Sevilla Barceló](https:/www.linkedin.com/in/carlos-sevilla-barceló)  | c.sevilla.barcelo@gmail.com |
+| [Carlos Sevilla Barceló](https://www.linkedin.com/in/carlos-sevilla-barceló/)  | c.sevilla.barcelo@gmail.com |
 
 En la carpeta `Notebooks` se encuentran 2 clases de Notebooks. 
 - Los que contienen el prefijo `C` son creados por Carlos
