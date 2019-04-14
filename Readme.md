@@ -1,7 +1,17 @@
 # Zara Talent Data Competition
 
-Competición de Zara para Zara Talent.  
+### Descripcion de la competición
+
+Competición de __Zara__ para el programa Zara Talent.  
 La competición consiste en predecir 3 semanas de ventas de productos de Zara.
+
+El archivo `zara_data_go_challenge_2019.pdf` contiene las reglas e instrucciones de la competición
+
+Los datos utilizados para esta competición se pueden descargar, al menos durante la competición, desde [aqui](https://www.zaratalent.com/downloads/zara_data_go_2019_initial_dataset_8vBnB9Z9WQqDrN6R.zip)
+
+
+
+### Informacion del repositorio.
 
 Realizado por:
 
@@ -9,7 +19,11 @@ Realizado por:
 | ---- | ---- |
 | Rodrigo Gomez Rodriguez | rodgomrod@gmail.com |
 | Carlos Sevilla Barceló | c.sevilla.barcelo@gmail.com |
- 
-El archivo `zara_data_go_challenge_2019.pdf` contiene las reglas e instrucciones de la competición
 
-La carpeta `data` está en el `.gitignore` debido a su peso. Aunque los archivos no son muy grandes, no es adecuado subirlos a github. Se pueden descargar, durante la competición, desde [aqui](https://www.zaratalent.com/downloads/zara_data_go_2019_initial_dataset_8vBnB9Z9WQqDrN6R.zip)
+En la carpeta `Notebooks` se encuentran 2 clases de Notebooks. 
+- `CX` Creados por Carlos
+- `RX` Creados por Rodrigo
+
+La carpeta `data` está en el `.gitignore` debido al peso de sus archivos. Aunque no son muy grandes, no es adecuado subirlos a github.
+
+Los datasets usados para los modelos se pueden obtener desde los notebooks `R1` y `R2`
