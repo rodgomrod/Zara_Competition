@@ -21,8 +21,8 @@ Realizado por:
 | Carlos Sevilla Barceló | c.sevilla.barcelo@gmail.com |
 
 En la carpeta `Notebooks` se encuentran 2 clases de Notebooks. 
-- `CX` Creados por Carlos
-- `RX` Creados por Rodrigo
+- Los que contienen el prefijo `C` son creados por Carlos
+- Los que contienen el prefijo `R` son creados por Rodrigo
 
 La carpeta `data` está en el `.gitignore` debido al peso de sus archivos. Aunque no son muy grandes, no es adecuado subirlos a github.
 
