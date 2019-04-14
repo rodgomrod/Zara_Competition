@@ -9,3 +9,4 @@ catboost
 sklearn 
 jupyter
 missingno
+tqdm
