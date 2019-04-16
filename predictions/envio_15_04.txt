@@ -1,0 +1,7 @@
+Carlos
+return Arrays.asList(560,1058,1580,315,1850,1121,487);
+Your score: 102229.52
+
+Rodri
+return Arrays.asList(560,1058,1580,315,1850,1121,1143);
+Your score: 106538.08
