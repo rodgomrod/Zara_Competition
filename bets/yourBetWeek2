@@ -1,19 +1,46 @@
-    public static List<Integer> yourBetFor71_77() {
-        // Replace 1, 2, 3, 4 list by your block ids bet for first day   
-        return Arrays.asList(560,1058,1580,315,1850,1121,1143);
-        
-        // Do not cheat and set the same list as the provided in first day
-        // We'll check this and if a new list is provided, your challenge
-        //    will be discarted
-    }
 
-    public static List<Integer> yourBetFor78_84() {
-        // Replace 1, 2, 3, 4, 5 list by your block ids bet for second day
-        // You can only change 20 products from first day bet
-        return Arrays.asList(560,1058,1580,315,1850,
-                             1036,439,2359,96,2306,1412,2037,2493,1833,2169,1180);
-    }
+# Rodrigo
+
+public static List<Integer> yourBetFor71_77() {
+    // Replace 1, 2, 3, 4 list by your block ids bet for first day   
+    return Arrays.asList(560,1058,1580,315,1850,1121,1143);
+    
+    // Do not cheat and set the same list as the provided in first day
+    // We'll check this and if a new list is provided, your challenge
+    //    will be discarted
+}
+
+public static List<Integer> yourBetFor78_84() {
+    // Replace 1, 2, 3, 4, 5 list by your block ids bet for second day
+    // You can only change 20 products from first day bet
+    return Arrays.asList(560,1058,1580,315,1850,
+                         1036,439,2359,96,2306,1412,2037,2493,1833,2169,1180);
+}
 
 
 Compiler Message
 Your score: 259166.13
+
+
+
+
+
+
+# Carlos
+
+public static List<Integer> yourBetFor71_77() {
+    // Replace 1, 2, 3, 4 list by your block ids bet for first day   
+    return Arrays.asList(560,1058,1580,315,1850,1121,487);
+    
+    // Do not cheat and set the same list as the provided in first day
+    // We'll check this and if a new list is provided, your challenge
+    //    will be discarted
+}
+
+public static List<Integer> yourBetFor78_84() {
+    // Replace 1, 2, 3, 4, 5 list by your block ids bet for second day
+    // You can only change 20 products from first day bet
+    return Arrays.asList(487, 560, 1580, 1850,96, 439, 1036, 1180, 1412, 1833, 2037, 2169, 2306, 2359, 2493);
+}
+
+Your score: 283752.35
